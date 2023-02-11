@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="10" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="shelf" tilewidth="16" tileheight="16" tilecount="25" columns="5">
+  <image source="shelf.png" width="80" height="80"/>
+ </tileset>
+ <tileset firstgid="26" name="room" tilewidth="16" tileheight="16" tilecount="130" columns="10">
+  <image source="room.png" width="160" height="220"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="10" height="9">
+  <data encoding="csv">
+26,27,27,27,27,27,27,27,2147483674,4,
+46,29,29,29,29,29,29,29,2147483684,2147483674,
+46,30,30,30,30,30,30,30,29,2147483694,
+46,29,29,29,29,29,29,29,29,2147483694,
+46,30,30,30,30,30,30,30,30,2147483694,
+46,29,29,29,29,29,29,29,29,2147483694,
+46,30,30,30,30,30,30,30,30,2147483694,
+46,29,29,29,29,29,29,29,29,2147483694,
+56,57,57,57,57,57,57,57,57,2147483704
+</data>
+ </layer>
+</map>

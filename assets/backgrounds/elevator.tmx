@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="10" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="room1" tilewidth="16" tileheight="16" tilecount="100" columns="10">
+  <image source="room.png" width="160" height="160"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="10" height="9">
+  <data encoding="csv">
+3,3,3,3,3,3,3,3,3,3,
+3,3,41,42,42,42,42,2147483689,3,3,
+3,3,21,7,8,2147483655,4,2147483669,3,3,
+3,3,2147483701,17,18,2147483665,52,53,3,3,
+3,3,21,4,4,4,2147483660,2147483669,3,3,
+3,3,21,4,4,4,4,2147483669,3,3,
+3,3,21,4,4,4,4,2147483669,3,3,
+3,3,31,32,32,32,32,2147483679,3,3,
+3,3,3,3,3,3,3,3,3,3
+</data>
+ </layer>
+</map>

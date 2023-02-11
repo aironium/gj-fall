@@ -1,0 +1,2966 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "asylum-floor2tmx.tmx",
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+        "."
+    ],
+    "exportAsImage.drawObjectLabels": false,
+    "exportAsImage.useCurrentScale": false,
+    "file.lastUsedOpenFilter": "Tiled map files (*.tmx *.xml)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/decoration.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1112.121212121212,
+                "y": 954.5454545454545
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Flying Fortress.tmx#units": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx": {
+            "scale": 0.07149810066476732,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1818.230117881455,
+                "y": 4028.0790303835306
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/Middle Ground.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Dirt ShalowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/LongGrass Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/LongGrass LongGrass - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/LongGrass ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/LongGrass ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Mountain LongGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Mountain Mountain - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Mountain Nothing - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Mountain Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Mountain ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Mountain ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Mountain Snow - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Mountain Stone - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Sand LandGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Sand ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Sand ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Snow Ice - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Snow Snow - ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Stone Lava - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Stone Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Stone ShallowWater - ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/ridges/Water DeepWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/terrain/Dirt.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/terrain/Lava.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/terrain/Long Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/terrain/Sand.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/terrain/Stone.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/challenge/units.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 631,
+                "y": 812
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#Deep Water": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/menu2.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Dirt ShalowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/LongGrass Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/LongGrass ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/LongGrass ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Mountain LongGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Mountain Mountain - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Mountain Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Mountain ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Mountain ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Mountain Snow - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Sand ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Snow Ice - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Snow Snow - ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Stone Lava - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/ridges/Water DeepWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/terrain/Dirt.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/terrain/Lava.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/terrain/Long Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/terrain/Sand.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/terrain/Stone.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/menu_background/units.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/decoration.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/internet/rustedWarfareMaps-testing/ridges/LongGrass ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/internet/rustedWarfareMaps-testing/ridges/Mountain LongGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/internet/rustedWarfareMaps-testing/ridges/Mountain Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/internet/rustedWarfareMaps-testing/ridges/Mountain ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/internet/rustedWarfareMaps-testing/ridges/Sand LandGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/internet/rustedWarfareMaps-testing/terrain/Long Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1748,
+                "y": 2434
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l010;[demo]mission_1__-__Dividing_River.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1824.6666666666665,
+                "y": 1649.3333333333333
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l020;mission_2__-__Icy_Assault.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 218.33333333333331,
+                "y": 245.33333333333331
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l030;[demo]mission_3__-__Crossfire.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -176,
+                "y": 852
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l040;mission_4__-__Sneak_Attack.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 83.99999999999997,
+                "y": 103.33333333333334
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Sand Sand - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Sand ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l050;mission_5__-__Desert_Base.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 103.030303030303,
+                "y": 233.33333333333337
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l060;mission_6__-__Snowy_Outcrop.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx": {
+            "scale": 0.13614376130198916,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1109.121700149427,
+                "y": 2108.0657479661295
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l070;mission_7__-__Lava_Fortress.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 880,
+                "y": 1836
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l080;mission_8__-__Downstream.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 872.7272727272727,
+                "y": 1515.151515151515
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l090;mission_9__-__Spider battle.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 4225.757575757576,
+                "y": 296.969696969697
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/l100;mission_10__-__Carrier_Group.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Dirt Dirt - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Dirt ShalowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/LongGrass Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/LongGrass ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/LongGrass ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Mountain LongGrass - Flat.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Mountain Mountain - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Mountain Sand - Flat.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Mountain ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Mountain ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Mountain Snow - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Sand Dirt - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Sand LandGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Sand Sand - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Sand ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Sand ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Snow Ice - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Snow Snow - ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Stone Lava - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Stone Snow - ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/ridges/Water DeepWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/terrain/Dirt.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/terrain/Lava.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/terrain/Long Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/terrain/Sand.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/terrain/Stone.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/normal/units.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/rustedWarfareMaps-testing/misc.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/[p2]Beach landing (2p) [by hxyy].tmx": {
+            "scale": 0.09671544209215442,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2016.2240463544185,
+                "y": 1597.4698213423467
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/[p2]Beach landing (2p) [by hxyy].tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/[p2]Beach landing (2p) [by hxyy].tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/[p2]Beach landing (2p) [by hxyy].tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/[p2]Beach landing (2p) [by hxyy].tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/misc.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/ridges/LongGrass LongGrass - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/ridges/LongGrass ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/ridges/Mountain LongGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/ridges/Mountain Snow - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/ridges/Sand LandGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/ridges/Sand ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/terrain/Long Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/skirmish/units.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 9,
+                "y": 526
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[o1]Surrounded.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 263,
+                "y": 526
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/[z;o1]Surrounded_(Classic_Waves).tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/Dirt ShalowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/LongGrass Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/LongGrass ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/LongGrass ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/Mountain LongGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/Mountain Mountain - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/Mountain Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/Mountain ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/Mountain ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/Mountain Snow - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/Sand ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/Snow Ice - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/Snow Snow - ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/ridges/Water DeepWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/terrain/Dirt.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/terrain/Long Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/terrain/Sand.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/survival/units.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/misc.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Dirt ShalowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/LongGrass Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/LongGrass LongGrass - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/LongGrass LongGrass - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/LongGrass ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/LongGrass ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Mountain LongGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Mountain Mountain - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Mountain Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Mountain ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Mountain ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Mountain Snow - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Sand LandGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Sand ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Sand ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Snow Ice - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Snow Snow - ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Stone Lava - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Stone Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/ridges/Water DeepWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 740,
+                "y": 681.3333333333333
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#LongGrass ShallowWater - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/skirmish_forest_bugtest.tmx#units": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/terrain/Dirt.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/terrain/Lava.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/terrain/Long Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/terrain/Sand.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/terrain/Stone.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 312.66666666666663,
+                "y": 761.3333333333333
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/maps/testing/unit_types_test.tmx#units": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/tilesets/ridges/Mountain Nothing - Ridge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/tilesets/ridges/Mountain Sand - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/tilesets/ridges/Mountain Stone - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/tilesets/ridges/Sand Nothing - Flat.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/tilesets/ridges/Stone Stone - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/tilesets/terrain/Dirt_Details.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/tilesets/units.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/assets/units.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bootcamp.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -296,
+                "y": 3424
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bootcamp.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bootcamp.tmx#LongGrass Dirt - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bootcamp.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bootcamp.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bootcamp.tmx#Water DeepWater - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bootcamp.tmx#longgrass2stone_flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bootcamp.tmx#snow2longgrass_flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bootcamp.tmx#stone2longgrass_ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 4999.5,
+                "y": 1871
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked.tmx#LongGrass Dirt - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked.tmx#Water DeepWater - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked.tmx#longgrass2stone_flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked.tmx#snow2longgrass_flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked.tmx#stone2longgrass_ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked_classic.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 4999.5,
+                "y": 1999.5
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked_classic.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked_classic.tmx#LongGrass Dirt - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked_classic.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked_classic.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked_classic.tmx#Water DeepWater - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked_classic.tmx#longgrass2stone_flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked_classic.tmx#snow2longgrass_flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/Bottlenecked_classic.tmx#stone2longgrass_ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 4690,
+                "y": 1390
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#Mountain Mountain - Hill": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/LabRetaliation.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Continental Wars by General Airon - 26 Jul 2020.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 143.66666666666663,
+                "y": 2151.333333333333
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Continental Wars by General Airon - 26 Jul 2020.tmx#Deep Water": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Continental Wars by General Airon - 26 Jul 2020.tmx#LongGrass Dirt - Ridge": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Continental Wars by General Airon - 26 Jul 2020.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Continental Wars by General Airon - 26 Jul 2020.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Continental Wars by General Airon - 26 Jul 2020.tmx#Water DeepWater - Flat": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Continental Wars by General Airon - 26 Jul 2020.tmx#longgrass2stone_flat": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Continental Wars by General Airon - 26 Jul 2020.tmx#snow2longgrass_flat": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Continental Wars by General Airon - 26 Jul 2020.tmx#stone2longgrass_ridge": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1600,
+                "y": 1599.5
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#custom_city": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Embedded custom tileset example - 28 Jul 2020.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#Mountain Mountain - Hill": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New LabRetaliation - 12 Oct 2020.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Mission proto - 28 Jul 2020.tmx#monotiles_v2": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New ModularAssault - 3 Sep 2020.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 3800,
+                "y": 5651.515151515152
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New ModularAssault - 3 Sep 2020.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New ModularAssault - 3 Sep 2020.tmx#LongGrass Dirt - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New ModularAssault - 3 Sep 2020.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New ModularAssault - 3 Sep 2020.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New ModularAssault - 3 Sep 2020.tmx#Water DeepWater - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New ModularAssault - 3 Sep 2020.tmx#longgrass2stone_flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New ModularAssault - 3 Sep 2020.tmx#snow2longgrass_flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New ModularAssault - 3 Sep 2020.tmx#stone2longgrass_ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New Coastal Avenger - 29 Jul 2020 - 29 Jul 2020.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 905,
+                "y": 566
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New Coastal Avenger - 29 Jul 2020 - 29 Jul 2020.tmx#monotiles": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 4965.333333333333,
+                "y": 3084
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#Mountain Mountain - Hill": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New New LabRetaliation - 12 Oct 2020 - 12 Oct 2020.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1836,
+                "y": 1696
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/New Rice terraces - 22 Jan 2021.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx": {
+            "scale": 0.158828125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1602.3610427939007,
+                "y": 1605.5090998524352
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/[p2]example_skirmish_(2p).tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 256,
+                "y": 1276
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#Snow Snow - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/boot.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/decoration.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/l690;Tight_Archipelago.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1499,
+                "y": 1998
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/l690;Tight_Archipelago.tmx#monotiles_v2": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/l691;Coastal_Avenger.tmx#monotiles": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/misc.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/modularAssault.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 3241,
+                "y": 5516
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/modularAssault.tmx#Deep Water": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/modularAssault.tmx#LongGrass Dirt - Ridge": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/modularAssault.tmx#Shallow Water": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/modularAssault.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/modularAssault.tmx#Water DeepWater - Flat": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/modularAssault.tmx#longgrass2stone_flat": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/modularAssault.tmx#snow2longgrass_flat": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/modularAssault.tmx#stone2longgrass_ridge": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1589,
+                "y": 1598
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rice_terraces.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Dirt Dirt - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Dirt ShalowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Ice Ice - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Ice ShallowWater - Broken.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Ice ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/LongGrass Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/LongGrass Dirt - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/LongGrass LongGrass - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/LongGrass LongGrass - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/LongGrass ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/LongGrass ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/LongGrass ShortGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain Dirt - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain LongGrass - Flat.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain Mountain - Hill.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain Mountain - Ridge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain Nothing - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain Nothing - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain Sand - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain Snow - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain Stone - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Mountain Stone - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Nothing Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Sand Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Sand Dirt - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Sand LandGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Sand Nothing - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Sand Sand - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Sand Sand - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Sand ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Sand ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Snow Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Snow Dirt - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Snow Ice - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Snow Snow - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Snow Snow - ridge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Stone Lava - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Stone Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Stone ShallowWater - ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Stone Snow - ridge.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Stone Stone - Ridge.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/ridges/Water DeepWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx": {
+            "scale": 0.4085922330097087,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1030.367114173696,
+                "y": 550.6712605441369
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#Ice Ice - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#Ice ShallowWater - Broken": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#Ice ShallowWater - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#LongGrass ShallowWater - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#Mountain": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#Sand": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#Stone Lava - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/rules/ruleset1.tmx#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Dirt.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Dirt_Details.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Ice.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Lava.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Long Grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Mountain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Sand.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Shallow Water.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Short Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Snow.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Stone.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/terrain/Water.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/units.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/maps/xxxx Coastal Avenger - 29 Jul 2020 - 29 Jul 2020 - 29 Jul 2020.tmx#monotiles": {
+            "dynamicWrapping": true
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/[p4]Continental_Wars_by_General_Airon.tmx": {
+            "scale": 0.0638671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 6012.477064220183,
+                "y": 2982.752293577981
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/[p4]Continental_Wars_by_General_Airon.tmx#Deep Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/[p4]Continental_Wars_by_General_Airon.tmx#LongGrass Dirt - Ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/[p4]Continental_Wars_by_General_Airon.tmx#Shallow Water": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/[p4]Continental_Wars_by_General_Airon.tmx#ShallowWater Water - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/[p4]Continental_Wars_by_General_Airon.tmx#Water DeepWater - Flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/[p4]Continental_Wars_by_General_Airon.tmx#longgrass2stone_flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/[p4]Continental_Wars_by_General_Airon.tmx#snow2longgrass_flat": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/[p4]Continental_Wars_by_General_Airon.tmx#stone2longgrass_ridge": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/decoration.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/misc.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Dirt Dirt - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Dirt ShalowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Ice Ice - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Ice ShallowWater - Broken.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Ice ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/LongGrass Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/LongGrass LongGrass - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/LongGrass LongGrass - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/LongGrass ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/LongGrass ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/LongGrass ShortGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain Dirt - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain LongGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain Mountain - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain Mountain - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain Nothing - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain Nothing - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain Sand - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain Snow - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain Stone - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Mountain Stone - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Nothing Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Sand Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Sand Dirt - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Sand LandGrass - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Sand Nothing - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Sand Sand - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Sand Sand - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Sand ShallowWater - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Sand ShallowWater - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Snow Dirt - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Snow Dirt - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Snow Ice - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Snow Snow - Hill.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Snow Snow - ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Stone Lava - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Stone Sand - Flat.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Stone ShallowWater - ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Stone Snow - ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/ridges/Stone Stone - Ridge.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/terrain/Dirt.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/terrain/Dirt_Details.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/terrain/Ice.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/terrain/Lava.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/terrain/Long Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/terrain/Mountain.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/terrain/Sand.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/terrain/Short Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/terrain/Snow.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/terrain/Stone.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/terrain/Water.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Airtek Mod 1.6.5 (Dev Trial 2) By Airtek Industries/Airtek Maps/units.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/Mission_proto.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1490,
+                "y": 1999.3333333333333
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/Mission_proto.tmx#monotiles_v2": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/[2p]Top_And_Bottom.tmx": {
+            "scale": 0.1044921875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1995.3644859813085,
+                "y": 2995.4392523364486
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/[2p]Top_And_Bottom.tmx#monotiles": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/[4p]Drill_Rush.tmx": {
+            "scale": 0.1044921875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3985.9439252336447,
+                "y": 3990.7289719626165
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/[4p]Drill_Rush.tmx#monotiles": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/[4p]Monolake_Mini.tmx": {
+            "scale": 0.12643034825870647,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1997.1470732907032,
+                "y": 1218.0619773733401
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/[4p]Monolake_Mini.tmx#monotiles": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/autom.tmx": {
+            "scale": 0.5623999999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 488.97581792318647,
+                "y": 257.8236130867711
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/monotiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/tuts.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -221,
+                "y": 143
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Rusted Warfare/mods/units/Monochrome 1.3 by General Airon/maps/tuts.tmx#monotiles_v2": {
+            "scaleInDock": 0.75
+        },
+        "C:/Users/Kristine/AppData/Local/Microsoft/Windows/INetCache/IE/0HWHXVSR/isonew[1].tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 293.75,
+                "y": 148.5
+            }
+        },
+        "C:/Users/Kristine/AppData/Local/Microsoft/Windows/INetCache/IE/0HWHXVSR/isonew[1].tmx#iso-64x64-outside": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/ded.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 77.16666666666666,
+                "y": 75.66666666666666
+            }
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/ded.tmx#ascii": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/ded.tmx#landtile": {
+            "scaleInDock": 3
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/home.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 68.875,
+                "y": 85.25
+            }
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/home.tmx#ascii": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/home.tmx#landtile": {
+            "scaleInDock": 3
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/land3.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.33333333333337,
+                "y": 199.33333333333331
+            }
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/land3.tmx#ascii": {
+            "scaleInDock": 2
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/land3.tmx#landtile": {
+            "scaleInDock": 3
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/land5.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.25,
+                "y": 240
+            }
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/land5.tmx#ascii": {
+            "scaleInDock": 2
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/land5.tmx#landtile": {
+            "scaleInDock": 3
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/lands..tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.25,
+                "y": 160
+            }
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/lands..tmx#landtile": {
+            "scaleInDock": 3
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/lands.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 237.25,
+                "y": 152
+            }
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/lands.tmx#landtile": {
+            "scaleInDock": 3
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/lands2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.3333333333333,
+                "y": 200
+            }
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/lands2.tmx#landtile": {
+            "scaleInDock": 3
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/pipe.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 111.49999999999999,
+                "y": 68
+            }
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/pipe.tmx#ascii": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Kristine/Documents/Pitik Pitik/assets/backgrounds/pipe.tmx#landtile": {
+            "scaleInDock": 3
+        },
+        "C:/Users/Kristine/Documents/RW Basic/assets/backgrounds/simple.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 80.33333333333331,
+                "y": 119.99999999999999
+            }
+        },
+        "C:/Users/Kristine/Documents/RW Basic/assets/backgrounds/simple.tmx#simple-tileset": {
+            "scaleInDock": 4
+        },
+        "C:/Users/Kristine/Documents/RW Basic/assets/backgrounds/simple2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160,
+                "y": 100
+            }
+        },
+        "C:/Users/Kristine/Documents/RW Basic/assets/backgrounds/simple2.tmx#simple-tileset": {
+            "scaleInDock": 4
+        },
+        "C:/Users/Kristine/Documents/RW Basic/assets/backgrounds/town.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160.16666666666666,
+                "y": 103.66666666666666
+            }
+        },
+        "C:/Users/Kristine/Documents/RW Basic/assets/backgrounds/town.tmx#simple-tileset": {
+            "scaleInDock": 4
+        },
+        "C:/Users/Kristine/Documents/RW Basic/assets/backgrounds/town.tmx#store": {
+            "scaleInDock": 3
+        },
+        "C:/Users/Kristine/NotTiled/sample/RW maps/Water-Bridge.tmx": {
+            "scale": 0.1026,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1008.7719298245613,
+                "y": 1476.608187134503
+            }
+        },
+        "C:/Users/Kristine/NotTiled/sample/RW maps/Water-Bridge.tmx#export_ground": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Kristine/NotTiled/sample/RW maps/Water-Bridge.tmx#export_items": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Kristine/NotTiled/sample/RW maps/Water-Bridge.tmx#export_units": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Kristine/Pictures/monotiles.tsx": {
+            "scaleInDock": 1
+        },
+        "action-park1.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1062.5,
+                "y": 108
+            }
+        },
+        "action-park1.tmx#room": {
+            "scaleInDock": 1
+        },
+        "action-park2.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 639.9999999999999,
+                "y": 96
+            }
+        },
+        "action-park2.tmx#room": {
+            "scaleInDock": 1
+        },
+        "action-park3.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640,
+                "y": 96
+            }
+        },
+        "action-park3.tmx#room": {
+            "scaleInDock": 1
+        },
+        "action-policejail.tmx": {
+            "scale": 8,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 183.75,
+                "y": 93
+            }
+        },
+        "action-policejail.tmx#room": {
+            "scaleInDock": 1
+        },
+        "asylum-cashierback.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160,
+                "y": 200
+            }
+        },
+        "asylum-cashierback.tmx#room": {
+            "scaleInDock": 1
+        },
+        "asylum-cr1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 280,
+                "y": 160
+            }
+        },
+        "asylum-cr1.tmx#room": {
+            "scaleInDock": 1
+        },
+        "asylum-cr2.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 523,
+                "y": 114.66666666666666
+            }
+        },
+        "asylum-cr2.tmx#room": {
+            "scaleInDock": 1
+        },
+        "asylum-floor1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 342.6666666666667,
+                "y": 278.66666666666663
+            }
+        },
+        "asylum-floor1.tmx#room": {
+            "scaleInDock": 1
+        },
+        "asylum-floor2tmx.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 490.6666666666666,
+                "y": 238.66666666666663
+            }
+        },
+        "asylum-floor2tmx.tmx#room": {
+            "scaleInDock": 1
+        },
+        "asylum-pharmaback.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 318.6666666666667,
+                "y": 392
+            }
+        },
+        "asylum-pharmaback.tmx#room": {
+            "scaleInDock": 1
+        },
+        "bedroom.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 147.33333333333331
+            }
+        },
+        "bedroom.tmx#room": {
+            "scaleInDock": 1
+        },
+        "easter-egg1.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 106.66666666666664,
+                "y": 67
+            }
+        },
+        "easter-egg1.tmx#room": {
+            "scaleInDock": 1
+        },
+        "elevator.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 112.66666666666666,
+                "y": 131.33333333333331
+            }
+        },
+        "elevator.tmx#room1": {
+            "scaleInDock": 1
+        },
+        "husbedroom.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 212.66666666666669,
+                "y": 110.66666666666666
+            }
+        },
+        "husbedroom.tmx#room": {
+            "scaleInDock": 1
+        },
+        "huslivingroom.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 171,
+                "y": 94.5
+            }
+        },
+        "huslivingroom.tmx#room": {
+            "scaleInDock": 1
+        },
+        "inventory.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 80.16666666666666,
+                "y": 72
+            }
+        },
+        "inventory.tmx#room": {
+            "scaleInDock": 1
+        },
+        "inventory.tmx#shelf": {
+            "scaleInDock": 1
+        },
+        "kitchen.tmx": {
+            "scale": 2.978645833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 20.47910473859065,
+                "y": 108.10281517747858
+            }
+        },
+        "kitchen.tmx#room": {
+            "scaleInDock": 1
+        },
+        "ledge.tmx": {
+            "scale": 2.3465000000000003,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 200.29831664180693,
+                "y": 96.31365864052844
+            }
+        },
+        "ledge.tmx#room": {
+            "scaleInDock": 1
+        },
+        "livingroom.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 206.66666666666669,
+                "y": 100.66666666666666
+            }
+        },
+        "livingroom.tmx#room": {
+            "scaleInDock": 1
+        },
+        "neighborhood.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640,
+                "y": 160
+            }
+        },
+        "neighborhood.tmx#room": {
+            "scaleInDock": 1
+        },
+        "neighborhood2.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 572,
+                "y": 393
+            }
+        },
+        "neighborhood2.tmx#room": {
+            "scaleInDock": 1
+        },
+        "neighborhood3.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 308,
+                "y": 336.66666666666663
+            }
+        },
+        "neighborhood3.tmx#room": {
+            "scaleInDock": 1
+        },
+        "park.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640,
+                "y": 360
+            }
+        },
+        "park.tmx#room": {
+            "scaleInDock": 1
+        },
+        "parkmaze.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 726,
+                "y": 891
+            }
+        },
+        "parkmaze.tmx#room": {
+            "scaleInDock": 1
+        },
+        "police-chief-office.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 286,
+                "y": 278
+            }
+        },
+        "police-chief-office.tmx#room": {
+            "scaleInDock": 1
+        },
+        "police-jail.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 477.3333333333333,
+                "y": 171.33333333333331
+            }
+        },
+        "police-jail.tmx#room": {
+            "scaleInDock": 1
+        },
+        "police-lobby.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 194.75,
+                "y": 84.5
+            }
+        },
+        "police-lobby.tmx#room": {
+            "scaleInDock": 1.5
+        },
+        "police-office.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 183,
+                "y": 323.5
+            }
+        },
+        "police-office.tmx#room": {
+            "scaleInDock": 1
+        },
+        "room1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 160
+            }
+        },
+        "room1.tmx#r1": {
+            "scaleInDock": 1
+        },
+        "room1.tmx#room1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "room2.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 400,
+                "y": 560
+            }
+        },
+        "room2.tmx#r1": {
+            "scaleInDock": 1
+        },
+        "shelfpov.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 80,
+                "y": 72
+            }
+        },
+        "shelfpov.tmx#shelf": {
+            "scaleInDock": 1
+        },
+        "splash.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 72.125,
+                "y": 70.5
+            }
+        },
+        "splash.tmx#ascii": {
+            "scaleInDock": 1.5
+        },
+        "title.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 111.66666666666666,
+                "y": 61.33333333333333
+            }
+        },
+        "title.tmx#larvasoft": {
+            "scaleInDock": 1
+        },
+        "title.tmx#room1": {
+            "scaleInDock": 1
+        },
+        "title.tmx#titlecard": {
+            "scaleInDock": 1
+        },
+        "under.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 81,
+                "y": 77
+            }
+        },
+        "under.tmx#room": {
+            "scaleInDock": 1
+        }
+    },
+    "loadedWorlds": [
+    ],
+    "map.height": 7,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 12,
+    "map.tileWidth": 12,
+    "map.width": 20,
+    "openFiles": [
+        "neighborhood.tmx",
+        "park.tmx",
+        "action-park2.tmx",
+        "action-park3.tmx",
+        "asylum-cr1.tmx",
+        "asylum-cashierback.tmx",
+        "asylum-floor2tmx.tmx"
+    ],
+    "project": "bg.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "neighborhood.tmx",
+        "park.tmx",
+        "action-park2.tmx",
+        "action-park3.tmx",
+        "asylum-cr1.tmx",
+        "asylum-cashierback.tmx",
+        "asylum-floor2tmx.tmx",
+        "kitchen.tmx",
+        "livingroom.tmx",
+        "neighborhood2.tmx",
+        "action-policejail.tmx",
+        "police-chief-office.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.tileSize": {
+        "height": 12,
+        "width": 12
+    }
+}
